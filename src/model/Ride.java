@@ -18,4 +18,8 @@ public class Ride {
     public double getDistance() {
         return distance;
     }
+
+    public PricingStrategy getPricingStrategy() {
+        return pricingStrategy;
+    }
 }
