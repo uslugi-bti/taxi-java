@@ -1,4 +1,4 @@
-/*package test;
+package test;
 
 import model.Ride;
 import org.junit.jupiter.api.Test;
@@ -91,4 +91,4 @@ public class RideEquivalenceTest {
         Ride ride = new Ride(60, new ComfortPricing());
         assertEquals(600.0, ride.calculatePrice(), 0.01);
     }
-}*/
+}
