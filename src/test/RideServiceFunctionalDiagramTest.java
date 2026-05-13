@@ -1,4 +1,4 @@
-/*package test;
+package test;
 
 import org.junit.jupiter.api.Test;
 import model.Customer;
@@ -75,4 +75,4 @@ public class RideServiceFunctionalDiagramTest {
         assertEquals("СТАНДАРТНА_ПОЇЗДКА", result, 
             "TC-6: Стандартна довга поїздка комфорт-класу");
     }
-}*/
+}
